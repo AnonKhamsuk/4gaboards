@@ -18,7 +18,7 @@
   "dependencies": {
     "@4gaboards/enums": "workspace:*",
     "@4gaboards/locales": "workspace:*",
-    "@azure/msal-node": "^5.3.1",
+    "@azure/msal-node": "^7.1.0",
     "@rargames/passport-github": "^1.1.2",
     "bcrypt": "^6.0.0",
     "cookie": "^2.0.1",
